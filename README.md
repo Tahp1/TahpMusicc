@@ -37,7 +37,7 @@ Tại đây bạn có thể:<br/>
 ▶ Giao diện Orders (đặt hàng) giúp vận chuyển hoặc trả hàng<br/>
 ![image](https://user-images.githubusercontent.com/94781375/173366093-44ac9bbe-a303-46b9-afa5-02381415b834.png)<br/>
 Đến đây là hết.<br/>
-Cảm ơn thầy đã xem qua project của em.!<br/>
+Cảm ơn thầy đã bỏ thời gian xem qua project của em.!<br/>
 
 
 
